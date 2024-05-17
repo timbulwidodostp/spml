@@ -3,6 +3,8 @@ Econometric Models for Spatial Panel Data Use spml With (In) R Software
 
 Spatial Panel Data Models Use spml With (In) R Software
 
+https://www.youtube.com/watch?v=bHC6U_U62vY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
